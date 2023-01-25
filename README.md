@@ -18,3 +18,4 @@ https://github.com/Harie-Lab/harie-Zemi/wiki
 
 ## ゼミ発表会
 
+各週で発表を行います．
