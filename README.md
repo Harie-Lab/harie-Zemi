@@ -10,7 +10,7 @@ We developed a data reduction system to increase the accuracy and reduce the siz
 
 # Wiki
 導入や卒論の書き方など  
-https://github.com/IoT-Zemi-Wakhok/Main/wiki
+https://github.com/Harie-Lab/harie-Zemi/wiki
 
 
 ## 予定
