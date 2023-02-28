@@ -15,9 +15,9 @@ https://github.com/Harie-Lab/harie-Zemi/wiki
 
 ## 予定
 
-2023年4月 Kick off!! 
-2023年2月 MDPI review paper投稿済み(採択待ち) 
-2023年4月12日 MPS144 / PDPTA'23 投稿締め切り 
+2023年4月 Kick off!!  
+2023年2月 MDPI review paper投稿済み(採択待ち)  
+2023年4月12日 MPS144 / PDPTA'23 投稿締め切り  
 2023年9月 学内研究室ポスター展示  
 
 
