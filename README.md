@@ -14,7 +14,7 @@ https://github.com/Harie-Lab/harie-Zemi/wiki
 
 # Discord  
 
-[張江ゼミDiscordチャンネル](https://discord.gg/tkVh57PF)
+[張江ゼミDiscordチャンネル](https://discord.com/channels/1085117426930286723/1085117427433615362)
 
 ## 予定
 
