@@ -12,6 +12,9 @@ We developed a data reduction system to increase the accuracy and reduce the siz
 導入や卒論の書き方など  
 https://github.com/Harie-Lab/harie-Zemi/wiki
 
+# Discord  
+
+[張江ゼミDiscordチャンネル](https://discord.gg/tkVh57PF)
 
 ## 予定
 
