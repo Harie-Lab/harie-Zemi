@@ -24,6 +24,10 @@ https://github.com/Harie-Lab/harie-Zemi/wiki
 2023年4月12日 MPS144 / PDPTA'23 投稿締め切り  
 2023年9月 学内研究室ポスター展示  
 
+## ゼミ役割  
+ゼミ長
+庶務
+コンパ係
 
 ## ゼミ発表会
 
