@@ -20,8 +20,8 @@ https://github.com/Harie-Lab/harie-Zemi/wiki
 
 ~~2023年3月20日 新3年生顔合わせ~~ 完了  
 2023年4月7日 Kick off!!  
-2023年2月 MDPI review paper投稿済み(採択待ち)  
-2023年4月12日 MPS144 / PDPTA'23 投稿締め切り  
+2023年2月 MDPI review paper 採択!! 
+~~2023年4月12日 MPS144 / PDPTA'23 投稿締め切り  ~~断念
 2023年9月 学内研究室ポスター展示  
 
 ## ゼミ役割  
