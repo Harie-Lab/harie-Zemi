@@ -21,6 +21,7 @@ https://github.com/Harie-Lab/harie-Zemi/wiki
 ~~2024年4月5日 kick-off!!~~　完了  
 2024年5月8日 FIT2024応募締め切り  
 2024年5月12日 X-ICT-2S3 2024 Spring Meeting  
+2024年7月25日 CANDAR abstract submission due 
 2024年9月4-5日 FIT2024  
 2024年9月 学内研究室ポスター展示   
 
