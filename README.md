@@ -23,7 +23,7 @@ https://github.com/Harie-Lab/harie-Zemi/wiki
 ~~2024年5月12日 X-ICT-2S3 2024 Spring Meeting~~ 完了．夏秋は大野さん発表よろしくお願いします．  
 2024年7月25日 CANDAR abstract submission due  
 2024年8月31日 IEEE ACCESS submission due  
-2024年9月4-5日 FIT2024  
+2024年9月4-6日 FIT2024: 広島工業大学　五日市キャンパス  
 2024年9月 学内研究室ポスター展示   
 
 ## ゼミ役割  
