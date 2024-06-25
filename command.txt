@@ -1,0 +1,5 @@
+socket1.sendto('command'.encode('utf-8'), tello_address)
+socket1.sendto('takeoff'.encode('utf-8'), tello_address)
+socket1.sendto('left 30'.encode('utf-8'), tello_address)
+socket1.sendto('right 30'.encode('utf-8'), tello_address)
+socket1.sendto('land'.encode('utf-8'), tello_address)
