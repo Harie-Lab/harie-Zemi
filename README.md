@@ -24,7 +24,7 @@ https://github.com/Harie-Lab/harie-Zemi/wiki
 ~~2024年6月20日 大川研究助成 応募完了~~  
 ~~2024年7月25日 CANDAR2024 abstract submission due =>8月6日に延長されました．~~   
 ~~2024年7月26日 FOSE2024 出したいけど無理かも．．．~~ 無理でした．  
-2024年~~8月31日~~ 10月31日 IEEE ACCESS submission due　がんばります．  
+~~2024年8月31日~~ 10月31日 IEEE ACCESS submission due　がんばります．  
 ~~2024年9月4-6日 FIT2024: 広島工業大学　五日市キャンパス~~ 発表終了．大野さんお疲れ様でした．  
 ~~2024年9月8-9日 X-ICT-2S3 2024 Summer Meeting~~ 完了．大野さん発表お疲れさまでした．  
 2024年9月25日 CANDAR 2024 long paper採択．  
